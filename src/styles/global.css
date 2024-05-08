@@ -1,9 +1,0 @@
-html,
-body {
-  background-color: var(--mantine-color-secondary-8);
-  color: var(--mantine-color-white);
-}
-
-body {
-  font-family: var(--mantine-font-family);
-}
